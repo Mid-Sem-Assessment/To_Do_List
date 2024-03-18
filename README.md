@@ -18,6 +18,7 @@ CSS is used to style the app, making it visually appealing and user-friendly.
 It styles the container, headings, input field, button, and task list.
 
 
+
 JavaScript Functionality:
 
 The addTask() function is called when the "Add" button is clicked.
