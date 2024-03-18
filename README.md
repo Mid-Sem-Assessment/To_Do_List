@@ -1,8 +1,4 @@
 # To_Do_List
-![image](https://github.com/Mid-Sem-Assessment/To_Do_List/assets/158020844/4bbba88c-bab0-4026-87dd-44ad9efbf8b8)
-![image](https://github.com/Mid-Sem-Assessment/To_Do_List/assets/158020844/3d647ea9-3453-40f6-8df4-d436bb8b46d4)
-
-
 Explanation:
 
 HTML Structure:
@@ -27,6 +23,11 @@ It also checks if the input field is empty and displays an alert if so.
 
 Conclusion:
 This simple To-Do app allows users to add tasks dynamically and displays them in a list format. It's a basic example of using HTML, CSS, and JavaScript together to create interactive web applications. You can further extend this project by adding features like marking tasks as completed, deleting tasks, or storing tasks in the browser's local storage for persistence.
+
+![image](https://github.com/Mid-Sem-Assessment/To_Do_List/assets/158020844/4bbba88c-bab0-4026-87dd-44ad9efbf8b8)
+![image](https://github.com/Mid-Sem-Assessment/To_Do_List/assets/158020844/3d647ea9-3453-40f6-8df4-d436bb8b46d4)
+
+
 
 
 
