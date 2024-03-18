@@ -54,12 +54,12 @@ document.addEventListener("DOMContentLoaded", function() {
     }).join("");
     todoList.innerHTML = newLiTag;
   }
-
+//inner html
   function clearAllTasks() {
     localStorage.removeItem("New Todo");
     showTasks();
   }
-
+//remove item
   function getListArrayFromLocalStorage() {
     let getLocalStorageData = localStorage.getItem("New Todo");
     return getLocalStorageData ? JSON.parse(getLocalStorageData) : [];
@@ -76,7 +76,7 @@ document.addEventListener("DOMContentLoaded", function() {
       deleteTask(index);
     }
   });
-
+//delete task
   function deleteTask(index) {
     let listArray = getListArrayFromLocalStorage();
     listArray.splice(index, 1);
@@ -84,3 +84,5 @@ document.addEventListener("DOMContentLoaded", function() {
     showTasks();
   }
 });
+//end
+// reviewed the javascript
